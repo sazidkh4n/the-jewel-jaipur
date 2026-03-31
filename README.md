@@ -9,7 +9,7 @@ This project is a complete e-commerce solution for a jewellery business, featuri
 *(This section is VERY important because the sites are no longer live. Add any screenshots you have here.)*
 
 **React/Next.js Frontend:**
-![Screenshot of the React Frontend](image_original (1).png)
+(the-jewel-jaipur/image_original.png)
 
 **WordPress Admin / Store:**
 ![Screenshot of the WordPress Backend](path/to/your/wordpress-screenshot.png)
