@@ -4,18 +4,6 @@ This project is a complete e-commerce solution for a jewellery business, featuri
 
 ---
 
-## 📸 Screenshots
-
-*(This section is VERY important because the sites are no longer live. Add any screenshots you have here.)*
-
-**React/Next.js Frontend:**
-(the-jewel-jaipur/image_original.png)
-
-**WordPress Admin / Store:**
-![Screenshot of the WordPress Backend](path/to/your/wordpress-screenshot.png)
-
----
-
 ## 📜 Project Overview
 
 The project was developed in two main parts to create a comprehensive and scalable online store:
